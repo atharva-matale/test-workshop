@@ -1,0 +1,4 @@
+gradio
+groq
+pypdf
+scikit-learn
